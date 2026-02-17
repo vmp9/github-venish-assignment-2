@@ -1,2 +1,2 @@
 this is an index file
-this is a local line
+this is a remote line
